@@ -15,7 +15,7 @@ Kho chưa tài liệu, công cụ và các tài nguyên liên quan đến quy tr
 ### Best practice
 - Unit test: https://dzone.com/articles/unit-testing-best-practices-how-to-get-the-most-ou
 ## CI / CD Tool
-- CruiseControl.NET
-- Jenkins
-- Octopus
-- SonarQube
+- [CruiseControl.NET](https://ccnet.github.io/CruiseControl.NET/projects/ccnet/wiki.html)
+- [Jenkins](https://www.jenkins.io/)
+- [Octopus](https://octopus.com/)
+- [SonarQube](https://www.sonarqube.org/)
